@@ -5,7 +5,9 @@ Oracle Apex login link -https://iacademy.oracle.com/ords/f?p=4000:1500:705795280
 ORACLE APEX CREDENTIALS 
 
 WORKSPACE:IN_A409_SQL_S80
+
 USERNAME:IN_A409_SQL_S80
+
 PASSWORD:Mareddy@1234
 
 
